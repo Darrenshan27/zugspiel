@@ -7,7 +7,7 @@ import streamlit as st
 # ============================================================
 # KONFIG
 # ============================================================
-N_PLAYER_START = 30
+N_PLAYER_START = 50
 M_ENEMY_START = 30
 
 # Szenario 2: konstante Trefferchance pro schießendem Soldaten
